@@ -25,6 +25,5 @@
 *Comments and feedback welcome!*
 
 # Where am I deployed?
-https://deploy-this-repo-khoitran590-4bv5-et2uyh40f.vercel.app/
-
+https://deploy-this-repo-khoitran590-4bv5.vercel.app/
 
